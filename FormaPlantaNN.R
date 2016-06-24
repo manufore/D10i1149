@@ -2,8 +2,6 @@
 ### Análisis de datos para informe final Proyecto Fondef D10i1149 ###
 ### --------------------------------------------------------------###
 
-lll
-
 # cargar los paquetes a utilizar #
 library(ggplot2) # ggplot2 para la generación de gráficos avanzados
 library(reshape2) # cambiar formato wide to long
